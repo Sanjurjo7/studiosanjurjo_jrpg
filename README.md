@@ -1,1 +1,0 @@
-# studiosanjurjo_jrpg

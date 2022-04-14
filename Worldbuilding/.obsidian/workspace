@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "e2410188bcb73b86",
+    "id": "ce65977a0ba6d777",
     "type": "split",
     "children": [
       {
-        "id": "a75720a663779b04",
+        "id": "2d2ba1ed7d438929",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Panjia (Planet).md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "68288d6ed60f4d25",
+    "id": "814ec61e67c296de",
     "type": "split",
     "children": [
       {
-        "id": "34bd0855435c8785",
+        "id": "f8e43168ad7a160d",
         "type": "tabs",
         "children": [
           {
-            "id": "69acb509a3a98b1d",
+            "id": "c0d9f0d6e41a9265",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +31,7 @@
             }
           },
           {
-            "id": "cc18d3a87a8af56d",
+            "id": "c88e59ce46e9b94b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +52,19 @@
     "width": 300
   },
   "right": {
-    "id": "800dcc6103f22c2d",
+    "id": "b368f50c4aecb646",
     "type": "split",
     "children": [
       {
-        "id": "0917312bd11f14a5",
+        "id": "a9e926d4beceb519",
         "type": "tabs",
         "children": [
           {
-            "id": "20149e97aa8c904c",
+            "id": "0aeb886b7b1f2c51",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Panjia (Planet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a75720a663779b04",
-  "lastOpenFiles": [
-    "Panjia (Planet).md",
-    "Zeratta.md",
-    "The great fall.md",
-    "Panjia (Deity).md",
-    "Serai counsel.md",
-    "Azanti.md"
-  ]
+  "active": "2d2ba1ed7d438929",
+  "lastOpenFiles": []
 }
