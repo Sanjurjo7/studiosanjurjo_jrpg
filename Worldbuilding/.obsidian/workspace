@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Panjia (Planet).md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,10 +90,12 @@
   "active": "a75720a663779b04",
   "lastOpenFiles": [
     "Panjia (Planet).md",
+    "Junii.md",
     "Serai counsel.md",
     "Panjia (Deity).md",
+    "Azanti.md",
+    "Terran.md",
     "The great fall.md",
-    "Zeratta.md",
-    "Azanti.md"
+    "Zeratta.md"
   ]
 }

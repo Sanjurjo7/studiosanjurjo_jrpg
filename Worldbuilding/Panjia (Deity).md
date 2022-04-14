@@ -1,3 +1,4 @@
 ---
 aliases: [Panjia]
+tags: [gods]
 ---
